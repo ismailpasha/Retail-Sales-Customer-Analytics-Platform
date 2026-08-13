@@ -81,6 +81,10 @@ Created a structured SQL analysis library covering core and advanced business qu
 
 The final dashboard provides an interactive view of retail performance.
 
+### Dashboard Preview
+
+![Retail Sales Performance Dashboard](images/dashboard_preview.png)
+
 ### KPI Cards
 
 - Total Revenue
